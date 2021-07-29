@@ -1,5 +1,15 @@
 {
-    "cabinet": "Q107614223",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/jersey-cabinet"
+    "cabinet": {
+      "id": "Q107614223",
+      "start": "2018"
+    },
+    "source": {
+        "url":   "https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx",
+        "title": "Jersey's Council of Ministers",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/jersey-cabinet"
 }
