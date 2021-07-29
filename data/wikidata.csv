@@ -1,16 +1,16 @@
-wdid,name,pid,position,psid
-Q107614302,Scott Wickenden,Q107614306,Assistant Chief Minister,Q107614302-ACC5135A-9C95-4F7F-97CD-62C7D5EABE56
-Q107614302,Scott Wickenden,Q107614310,Assistant Minister for Social Security,Q107614302-DC0A645C-136A-4386-96D5-B911D4FCBD48
-Q16196549,John Le Fondré,Q1281624,Chief Minister,Q16196549-F73DC52E-3E12-41BA-B55F-ED82153647EF
-Q12057510,Lyndon Farnham,Q107614325,Deputy Chief Minister,Q12057510-A692FF10-B281-4087-8AD2-465B665AD42F
-Q107614302,Scott Wickenden,Q107614309,Minister for Children and Education,Q107614302-36BE2BAF-546E-4501-9B01-2AC178BA937F
-Q12057510,Lyndon Farnham,Q107614326,"Minister for Economic Development, Tourism, Sport and Culture",Q12057510-18C33680-0F32-4702-A0F8-805EE50BE2A3
-Q5015992,Ian Gorst,Q107614351,Minister for External Relations,Q5015992-B2EFB0E3-5066-4AC9-949A-BF5B4076896A
-Q106959605,Richard Renouf,Q107614320,Minister for Health and Social Services,Q106959605-CEBC9646-2CFF-47D0-9B74-C5E321E8656F
-Q107614361,Gregory Guida,Q107614362,Minister for Home Affairs,Q107614361-1DD27CAC-CC8F-400B-8DD5-E21F2BB178BB
-Q106961057,Russell Labey,Q107614316,Minister for Housing and Communities,Q106961057-68035628-FD26-4344-BF2C-AE85EF66CE37
-Q12061148,Kevin Lewis,Q107614333,Minister for Infrastructure,Q12061148-EBA5EB36-5E1C-4903-B683-4DB9622BF228
-Q5045403,Carolyn Labey,Q107614364,Minister for International Development,Q5045403-1D57CADC-54D3-4FFA-A50D-4C0D8ABF93E1
-Q16732060,Judy Martin,Q107614335,Minister for Social Security,Q16732060-24327AC0-8645-4952-9BB4-18C26C38FE8B
-Q16734551,Susie Pinel,Q107614278,Minister for Treasury and Resources,Q16734551-8F484C26-2630-4FD0-BE80-A60B251E80E1
-Q107614343,John Young,Q107614344,Minister for the Environment,Q107614343-CAA8EF1A-F707-4401-B6F8-50FE90422139
+wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+Q5045403,Carolyn Labey,Carolyn Labey,female,,,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614364,Minister for International Development,Q5045403-1D57CADC-54D3-4FFA-A50D-4C0D8ABF93E1
+Q107614361,Gregory Guida,Gregory Guida,,,,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614362,Minister for Home Affairs,Q107614361-1DD27CAC-CC8F-400B-8DD5-E21F2BB178BB
+Q5015992,Ian Gorst,Ian Gorst,male,1969-12-15T00:00:00Z,11,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614351,Minister for External Relations,Q5015992-B2EFB0E3-5066-4AC9-949A-BF5B4076896A
+Q16196549,John Le Fondré,John Le Fondré,male,1966-01-01T00:00:00Z,9,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q1281624,Chief Minister,Q16196549-F73DC52E-3E12-41BA-B55F-ED82153647EF
+Q107614343,John Young,John Young,,,,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614344,Minister for the Environment,Q107614343-CAA8EF1A-F707-4401-B6F8-50FE90422139
+Q16732060,Judy Martin,Judy Martin,female,2000-01-01T00:00:00Z,7,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614335,Minister for Social Security,Q16732060-24327AC0-8645-4952-9BB4-18C26C38FE8B
+Q12061148,Kevin Lewis,Kevin Lewis,male,,,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614333,Minister for Infrastructure,Q12061148-EBA5EB36-5E1C-4903-B683-4DB9622BF228
+Q12057510,Lyndon Farnham,Lyndon Farnham,male,1965-01-01T00:00:00Z,9,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614325,Deputy Chief Minister,Q12057510-A692FF10-B281-4087-8AD2-465B665AD42F
+Q12057510,Lyndon Farnham,Lyndon Farnham,male,1965-01-01T00:00:00Z,9,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614326,"Minister for Economic Development, Tourism, Sport and Culture",Q12057510-18C33680-0F32-4702-A0F8-805EE50BE2A3
+Q106959605,Richard Renouf,Richard Renouf,male,1956-01-01T00:00:00Z,9,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614320,Minister for Health and Social Services,Q106959605-CEBC9646-2CFF-47D0-9B74-C5E321E8656F
+Q106961057,Russell Labey,Russell Labey,male,,,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614316,Minister for Housing and Communities,Q106961057-68035628-FD26-4344-BF2C-AE85EF66CE37
+Q107614302,Scott Wickenden,Scott Wickenden,,,,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614306,Assistant Chief Minister,Q107614302-ACC5135A-9C95-4F7F-97CD-62C7D5EABE56
+Q107614302,Scott Wickenden,Scott Wickenden,,,,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614310,Assistant Minister for Social Security,Q107614302-DC0A645C-136A-4386-96D5-B911D4FCBD48
+Q107614302,Scott Wickenden,Scott Wickenden,,,,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614309,Minister for Children and Education,Q107614302-36BE2BAF-546E-4501-9B01-2AC178BA937F
+Q16734551,Susie Pinel,Susan Pinel,female,,,https://www.gov.je/Government/HowGovernmentWorks/CouncilMinisters/Pages/CouncilofMinisters.aspx,Q107614278,Minister for Treasury and Resources,Q16734551-8F484C26-2630-4FD0-BE80-A60B251E80E1
