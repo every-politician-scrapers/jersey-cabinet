@@ -1,0 +1,158 @@
+{
+  "title": "Susan Pinel",
+  "pageID": 38930568,
+  "categories": [
+    "Living people",
+    "Deputies of Jersey",
+    "Jersey women in politics",
+    "21st-century British women politicians",
+    "Year of birth missing (living people)",
+    "Government ministers of Jersey"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Susan Pinel is a Jersey politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jersey"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Susan Pinel"
+                ]
+              }
+            },
+            {
+              "text": "She was first elected as a Deputy for St Clement in the Jersey general election of 2011.",
+              "links": [
+                {
+                  "text": "St Clement",
+                  "type": "internal",
+                  "page": "Saint Clement, Jersey"
+                },
+                {
+                  "text": "Jersey general election of 2011",
+                  "type": "internal",
+                  "page": "2011 Jersey general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Susan Jane Pinel"
+          },
+          "office": {
+            "text": "Deputy"
+          },
+          "term_start": {
+            "text": "Nov 2011"
+          },
+          "constituency": {
+            "text": "St Clement",
+            "links": [
+              {
+                "text": "St Clement",
+                "type": "internal",
+                "page": "Saint Clement, Jersey"
+              }
+            ]
+          },
+          "majority": {
+            "text": "1,314 (50%)"
+          },
+          "party": {
+            "text": "Independent (2011-2021) Jersey Alliance (2021-present)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent (politician)"
+              },
+              {
+                "type": "internal",
+                "page": "Jersey Alliance"
+              }
+            ]
+          },
+          "residence": {
+            "text": "St Clement, Jersey"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.statesassembly.gov.je/Pages/Members.aspx?MemberId=175",
+          "title": "Members",
+          "publisher": "Statesassembly.gov.je",
+          "accessdate": "2013-03-26",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In November 2011, Pinel was one of Sir Philip Bailhache's nominators in the 2011 election of the Chief Minister of Jersey.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philip Bailhache"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chief Minister of Jersey"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bbc.co.uk/news/world-europe-jersey-15672595",
+          "title": "BBC News - Two poll toppers stand for Jersey's Chief Minister role",
+          "publisher": "Bbc.co.uk",
+          "date": "2011-11-10",
+          "accessdate": "2013-03-27",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "jersey-bio-stub"
+        }
+      ]
+    }
+  ]
+}

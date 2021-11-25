@@ -1,0 +1,226 @@
+{
+  "title": "Judy Martin (politician)",
+  "pageID": 6835122,
+  "categories": [
+    "Living people",
+    "Deputies of Jersey",
+    "Jersey women in politics",
+    "21st-century British women politicians",
+    "Year of birth missing (living people)",
+    "Government ministers of Jersey"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Judy Martin is a Jersey politician who was first elected as a Deputy for St Helier in the Jersey by-election of 2000.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jersey"
+                },
+                {
+                  "text": "St Helier",
+                  "type": "internal",
+                  "page": "Saint Helier"
+                },
+                {
+                  "text": "Jersey by-election of 2000",
+                  "type": "internal",
+                  "page": "2000 Jersey by-elections"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Judy Martin"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She became an Assistant Minister for Health and Social Services in November 2011."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was appointed Minister for Social Security in May 2018."
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Judith Ann Martin"
+          },
+          "office": {
+            "text": "Deputy"
+          },
+          "term_start": {
+            "text": "2011",
+            "number": 2011
+          },
+          "constituency": {
+            "text": "St Helier No. 1",
+            "links": [
+              {
+                "text": "St Helier",
+                "type": "internal",
+                "page": "Saint Helier"
+              }
+            ]
+          },
+          "majority": {
+            "text": "717 (40%)"
+          },
+          "office2": {
+            "text": "Deputy"
+          },
+          "term_start2": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "constituency2": {
+            "text": "St Helier No. 1"
+          },
+          "majority2": {
+            "text": "601",
+            "number": 601
+          },
+          "office3": {
+            "text": "Deputy"
+          },
+          "term_start3": {
+            "text": "2005",
+            "number": 2005
+          },
+          "term_end3": {
+            "text": "2008",
+            "number": 2008
+          },
+          "constituency3": {
+            "text": "St Helier No. 1"
+          },
+          "party": {
+            "text": "Independent (2005-2021) Jersey Alliance (2021-present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jersey Alliance"
+              }
+            ]
+          },
+          "residence": {
+            "text": "St Clement, Jersey",
+            "links": [
+              {
+                "text": "St Clement",
+                "type": "internal",
+                "page": "Saint Clement, Jersey"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.gov.je/News/2011/Pages/AssistantMinisters.aspx",
+          "title": "Assistant Ministers announced",
+          "publisher": "Gov.je",
+          "date": "2011-11-25",
+          "accessdate": "2013-03-27",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.statesassembly.gov.je/Pages/Members.aspx?MemberId=43",
+          "title": "Members",
+          "publisher": "Statesassembly.gov.je",
+          "accessdate": "2013-03-27",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "New police headquarters",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martin voiced opposition to the construction of a new HQ for the States of Jersey Police at the proposed Green Street car park site, suggesting it should be built elsewhere.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "States of Jersey Police"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2021, Martin joined the newly formed Jersey Alliance party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jersey Alliance"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bbc.co.uk/news/world-europe-jersey-19818610",
+          "title": "BBC News - States of Jersey asked to refuse new police HQ plans",
+          "publisher": "Bbc.co.uk",
+          "date": "2012-10-03",
+          "accessdate": "2013-03-27",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.com/news/world-europe-jersey-57861724",
+          "title": "New third political party in Jersey to sit 'centre-right'",
+          "work": "BBC News",
+          "date": "20 July 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "jersey-bio-stub"
+        }
+      ]
+    }
+  ]
+}
