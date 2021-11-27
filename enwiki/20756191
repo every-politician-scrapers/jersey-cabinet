@@ -55,6 +55,10 @@
       ],
       "templates": [
         {
+          "description": "Jersey politician, chief minister of Jersey, and an accountant (born 1969)",
+          "template": "short description"
+        },
+        {
           "date": "October 2021",
           "template": "use dmy dates"
         },
