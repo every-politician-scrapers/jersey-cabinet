@@ -107,52 +107,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Political career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In November 2011, Pinel was one of Sir Philip Bailhache's nominators in the 2011 election of the Chief Minister of Jersey.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Philip Bailhache"
-                },
-                {
-                  "type": "internal",
-                  "page": "Chief Minister of Jersey"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.bbc.co.uk/news/world-europe-jersey-15672595",
-          "title": "BBC News - Two poll toppers stand for Jersey's Chief Minister role",
-          "publisher": "Bbc.co.uk",
-          "date": "2011-11-10",
-          "accessdate": "2013-03-27",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "jersey-bio-stub"
-        }
-      ]
     }
   ]
 }
