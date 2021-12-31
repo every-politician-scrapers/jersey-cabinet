@@ -17,7 +17,7 @@
         {
           "sentences": [
             {
-              "text": "Susan Pinel is a Jersey politician.",
+              "text": "Susan Jane Pinel is a Jersey politician.",
               "links": [
                 {
                   "type": "internal",
@@ -26,18 +26,32 @@
               ],
               "formatting": {
                 "bold": [
-                  "Susan Pinel"
+                  "Susan Jane Pinel"
                 ]
               }
             },
             {
-              "text": "She was first elected as a Deputy for St Clement in the Jersey general election of 2011.",
+              "text": "She is a deputy in the States Assembly for St Clement and is the Minister for Treasury and Resources.",
               "links": [
+                {
+                  "text": "deputy",
+                  "type": "internal",
+                  "page": "Legislator"
+                },
+                {
+                  "type": "internal",
+                  "page": "States Assembly"
+                },
                 {
                   "text": "St Clement",
                   "type": "internal",
                   "page": "Saint Clement, Jersey"
-                },
+                }
+              ]
+            },
+            {
+              "text": "She was first elected in the Jersey general election of 2011.",
+              "links": [
                 {
                   "text": "Jersey general election of 2011",
                   "type": "internal",
@@ -46,6 +60,12 @@
               ]
             }
           ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Jersey politician",
+          "template": "short description"
         }
       ],
       "infoboxes": [
@@ -57,7 +77,7 @@
             "text": "Deputy"
           },
           "term_start": {
-            "text": "Nov 2011"
+            "text": "14 November 2011"
           },
           "constituency": {
             "text": "St Clement",
@@ -73,7 +93,7 @@
             "text": "1,314 (50%)"
           },
           "party": {
-            "text": "Independent (2011-2021) Jersey Alliance (2021-present)",
+            "text": "Independent (2011–2021) Jersey Alliance (2021–present)",
             "links": [
               {
                 "text": "Independent",
@@ -93,18 +113,21 @@
       ],
       "references": [
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
           "url": "http://www.statesassembly.gov.je/Pages/Members.aspx?MemberId=175",
           "title": "Members",
           "publisher": "Statesassembly.gov.je",
           "accessdate": "2013-03-26",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "date": "7 June 2018",
+          "title": "The States of Jersey elect new Council of Ministers",
+          "work": "ITV",
+          "url": "https://www.itv.com/news/channel/2018-06-07/the-states-of-jersey-to-elect-new-council-of-ministers",
+          "access-date": "30 December 2021",
+          "template": "citation",
+          "type": "news"
         }
       ]
     }
