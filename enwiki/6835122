@@ -134,25 +134,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.gov.je/News/2011/Pages/AssistantMinisters.aspx",
-          "title": "Assistant Ministers announced",
-          "publisher": "Gov.je",
-          "date": "2011-11-25",
-          "accessdate": "2013-03-27",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.statesassembly.gov.je/Pages/Members.aspx?MemberId=43",
-          "title": "Members",
-          "publisher": "Statesassembly.gov.je",
-          "accessdate": "2013-03-27",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
