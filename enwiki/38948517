@@ -111,24 +111,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.statesassembly.gov.je/Pages/Members.aspx?MemberId=96",
-          "title": "Members",
-          "publisher": "Statesassembly.gov.je",
-          "accessdate": "2013-03-28",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.statesassembly.gov.je/Pages/MinisterDepartments.aspx?MinisterId=5",
-          "title": "Ministers",
-          "publisher": "Statesassembly.gov.je",
-          "accessdate": "2013-03-28",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
