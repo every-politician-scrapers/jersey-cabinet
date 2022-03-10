@@ -1,192 +1,22 @@
 {
-  "title": "Lyndon Farnham",
-  "pageID": 37248212,
-  "categories": [
-    "Living people",
-    "Senators of Jersey",
-    "Deputies of Jersey",
-    "People educated at Hautlieu School",
-    "Jersey businesspeople",
-    "Year of birth missing (living people)",
-    "Government ministers of Jersey"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Lyndon John Farnham is a Jersey politician who is the Deputy Chief Minister and Minister for Economic Development, Tourism, Sport and Culture.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jersey"
-                },
-                {
-                  "text": "Minister",
-                  "type": "internal",
-                  "page": "Council of Ministers (Jersey)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Lyndon John Farnham"
-                ]
-              }
-            },
-            {
-              "text": "He used to be a Deputy for St Saviour, and is now a Senator.",
-              "links": [
-                {
-                  "text": "St Saviour",
-                  "type": "internal",
-                  "page": "Saint Saviour, Jersey"
-                },
-                {
-                  "text": "Senator",
-                  "type": "internal",
-                  "page": "States Assembly"
-                }
-              ]
-            },
-            {
-              "text": "He is a businessman and a company director."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "August 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "March 2018",
-          "template": "use british english"
-        },
-        {
-          "template": "official website"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "File:Lyndon Farnham 2017.jpg"
-          },
-          "name": {
-            "text": "Lyndon John Farnham"
-          },
-          "caption": {
-            "text": "Senator Farnham in 2017"
-          },
-          "office": {
-            "text": "Deputy Chief Minister",
-            "links": [
-              {
-                "text": "Chief Minister",
-                "type": "internal",
-                "page": "Chief Minister of Jersey"
-              }
-            ]
-          },
-          "subterm": {
-            "text": "Chief Minister",
-            "formatting": {
-              "bold": [
-                "Chief Minister"
-              ]
-            }
-          },
-          "suboffice": {
-            "text": "John Le Fondré",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Le Fondré"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister for Economic Development, Tourism, Sport and Culture"
-          },
-          "monarch2": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "lieutenant_governor2": {
-            "text": "Stephen Dalton",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stephen Dalton"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Senator"
-          },
-          "term_start3": {
-            "text": "2011",
-            "number": 2011
-          },
-          "constituency3": {
-            "text": "Jersey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jersey"
-              }
-            ]
-          },
-          "majority3": {
-            "text": "11,095",
-            "number": 11095
-          },
-          "office4": {
-            "text": "Deputy for\nSt Saviour No. 2",
-            "links": [
-              {
-                "text": "St Saviour No. 2",
-                "type": "internal",
-                "page": "Saint Saviour, Jersey"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1999",
-            "number": 1999
-          },
-          "term_end4": {
-            "text": "2005",
-            "number": 2005
-          },
-          "majority4": {
-            "text": "Unopposed"
-          },
-          "birth_place": {
-            "text": "Jersey"
-          },
-          "residence": {
-            "text": "Saint Ouen, Jersey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Saint Ouen, Jersey"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Company director"
-          }
-        }
-      ]
-    }
-  ]
+  "image": "File:Lyndon Farnham 2017.jpg",
+  "name": "Lyndon John Farnham",
+  "caption": "Senator Farnham in 2017",
+  "office": "Deputy Chief Minister",
+  "subterm": "Chief Minister",
+  "suboffice": "John Le Fondré",
+  "office2": "Minister for Economic Development, Tourism, Sport and Culture",
+  "monarch2": "Elizabeth II",
+  "lieutenant_governor2": "Stephen Dalton",
+  "office3": "Senator",
+  "term_start3": "2011",
+  "constituency3": "Jersey",
+  "majority3": "11,095",
+  "office4": "Deputy for\nSt Saviour No. 2",
+  "term_start4": "1999",
+  "term_end4": "2005",
+  "majority4": "Unopposed",
+  "birth_place": "Jersey",
+  "residence": "Saint Ouen, Jersey",
+  "occupation": "Company director"
 }

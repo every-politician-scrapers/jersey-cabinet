@@ -1,117 +1,17 @@
 {
-  "title": "Kevin C. Lewis",
-  "pageID": 38948517,
-  "categories": [
-    "Deputies of Jersey",
-    "Living people",
-    "People from Saint Saviour, Jersey",
-    "Year of birth missing (living people)",
-    "Government ministers of Jersey"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Kevin Charles Lewis is a Jersey politician, and Deputy for the island's St Saviour No. 2 district since 2005.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Jersey"
-                },
-                {
-                  "text": "St Saviour",
-                  "type": "internal",
-                  "page": "Saint Saviour, Jersey"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Kevin Charles Lewis"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is Jersey's Transport and Technical Services Minister.",
-              "links": [
-                {
-                  "text": "Transport and Technical Services Minister",
-                  "type": "internal",
-                  "page": "Council of Ministers of Jersey"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Kevin Charles Lewis in 2012.JPG"
-          },
-          "name": {
-            "text": "Kevin Charles Lewis"
-          },
-          "caption": {
-            "text": "Kevin Lewis in 2012."
-          },
-          "office": {
-            "text": "Deputy"
-          },
-          "term_start": {
-            "text": "2011",
-            "number": 2011
-          },
-          "constituency": {
-            "text": "St Saviour No. 2"
-          },
-          "office2": {
-            "text": "Deputy"
-          },
-          "term_start2": {
-            "text": "2008",
-            "number": 2008
-          },
-          "term_end2": {
-            "text": "2011",
-            "number": 2011
-          },
-          "constituency2": {
-            "text": "St Saviour No. 2"
-          },
-          "office3": {
-            "text": "Deputy"
-          },
-          "term_start3": {
-            "text": "2005",
-            "number": 2005
-          },
-          "term_end3": {
-            "text": "2008",
-            "number": 2008
-          },
-          "constituency3": {
-            "text": "St Saviour No. 2"
-          },
-          "residence": {
-            "text": "St Saviour, Jersey",
-            "links": [
-              {
-                "text": "St Saviour",
-                "type": "internal",
-                "page": "Saint Saviour, Jersey"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Kevin Charles Lewis in 2012.JPG",
+  "name": "Kevin Charles Lewis",
+  "caption": "Kevin Lewis in 2012.",
+  "office": "Deputy",
+  "term_start": "2011",
+  "constituency": "St Saviour No. 2",
+  "office2": "Deputy",
+  "term_start2": "2008",
+  "term_end2": "2011",
+  "constituency2": "St Saviour No. 2",
+  "office3": "Deputy",
+  "term_start3": "2005",
+  "term_end3": "2008",
+  "constituency3": "St Saviour No. 2",
+  "residence": "St Saviour, Jersey"
 }
