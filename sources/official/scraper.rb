@@ -25,7 +25,7 @@ class MemberList
     # Each 'Minister' node, each of which has an incrementing class id
     def member_container
       noko.css('.pagecontent .col-12.nopadding span').select do |node|
-        node.attr('class')[/pText[2-9]/] && node.text.include?('Minister')
+        node.attr('class')[/pText[1-9]/] && node.text.include?('Minister')
       end
     end
   end
