@@ -18,7 +18,7 @@
         {
           "sentences": [
             {
-              "text": "Ian Joseph Gorst (born 15 December 1969) is a Jersey politician who has been a Deputy for St Mary,  St Ouen and  St Peter since 2022 and Minister for External Relations since 2018.",
+              "text": "Ian Joseph Gorst (born 15 December 1969) is a Jersey politician who has been a Deputy for St Mary,  St Ouen and  St Peter and Minister for Treasury and Resources since 2022.",
               "links": [
                 {
                   "type": "internal",
@@ -46,14 +46,14 @@
                   "page": "St Peter, Jersey "
                 },
                 {
+                  "text": "Minister for Treasury and Resources",
+                  "type": "internal",
+                  "page": "Council of Ministers (Jersey)"
+                },
+                {
                   "text": "2022",
                   "type": "internal",
                   "page": "2022 Jersey general election "
-                },
-                {
-                  "text": "Minister for External Relations",
-                  "type": "internal",
-                  "page": "Council of Ministers (Jersey)"
                 }
               ],
               "formatting": {
@@ -106,6 +106,16 @@
                   "text": "2018 general election",
                   "type": "internal",
                   "page": "2018 Jersey general election"
+                }
+              ]
+            },
+            {
+              "text": "From 2018 to 2022 he served as Minister for External Relations.",
+              "links": [
+                {
+                  "text": "Minister for External Relations",
+                  "type": "internal",
+                  "page": "Council of Ministers (Jersey)"
                 }
               ]
             }
@@ -171,23 +181,12 @@
             "text": "Ian gorst in the royal square.JPG"
           },
           "office": {
-            "text": "Minister for External Relations",
+            "text": "Minister for Treasury and Resources",
             "links": [
               {
-                "text": "Minister for External Relations",
+                "text": "Minister for Treasury and Resources",
                 "type": "internal",
                 "page": "Council of Ministers (Jersey)"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Senator",
-            "links": [
-              {
-                "text": "Senator",
-                "type": "internal",
-                "page": "States Assembly",
-                "anchor": "Composition"
               }
             ]
           },
@@ -200,6 +199,59 @@
             }
           },
           "suboffice": {
+            "text": "Kristina Moore",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kristina Moore"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Susan Pinel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Susan Pinel"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "12 July 2022"
+          },
+          "office1": {
+            "text": "Minister for External Relations",
+            "links": [
+              {
+                "text": "Minister for External Relations",
+                "type": "internal",
+                "page": "Council of Ministers (Jersey)"
+              }
+            ]
+          },
+          "term_end1": {
+            "text": "12 July 2022"
+          },
+          "office3": {
+            "text": "Senator",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "States Assembly",
+                "anchor": "Composition"
+              }
+            ]
+          },
+          "subterm1": {
+            "text": "Chief Minister",
+            "formatting": {
+              "bold": [
+                "Chief Minister"
+              ]
+            }
+          },
+          "suboffice1": {
             "text": "John Le Fondré",
             "links": [
               {
@@ -208,21 +260,30 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "7 June 2018"
           },
-          "term_start2": {
+          "term_start3": {
             "text": "14 November 2011"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "27 June 2022"
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Philip Bailhache",
             "links": [
               {
                 "type": "internal",
                 "page": "Philip Bailhache"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Philip Ozouf",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philip Ozouf"
               }
             ]
           },
@@ -258,7 +319,7 @@
           "children": {
             "text": "2 daughters"
           },
-          "office1": {
+          "office2": {
             "text": "Deputy for St Mary,  St Ouen and  St Peter",
             "links": [
               {
@@ -284,7 +345,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Chief Minister of Jersey",
             "links": [
               {
@@ -293,10 +354,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "27 June 2022"
           },
-          "subterm1": {
+          "subterm2": {
             "text": "Serving with",
             "formatting": {
               "bold": [
@@ -304,7 +365,7 @@
               ]
             }
           },
-          "suboffice1": {
+          "suboffice2": {
             "text": "Kristina Moore Lyndon Farnham Lucy Stephenson",
             "links": [
               {
@@ -317,7 +378,7 @@
               }
             ]
           },
-          "subterm4": {
+          "subterm5": {
             "text": "Serving with",
             "formatting": {
               "bold": [
@@ -325,16 +386,16 @@
               ]
             }
           },
-          "suboffice4": {
+          "suboffice5": {
             "text": "Gerard Baudains Anne Dupré"
           },
-          "term_start3": {
+          "term_start4": {
             "text": "14 November 2011"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "7 June 2018"
           },
-          "subterm3": {
+          "subterm4": {
             "text": "Lieutenant Governor",
             "formatting": {
               "bold": [
@@ -342,7 +403,7 @@
               ]
             }
           },
-          "suboffice3": {
+          "suboffice4": {
             "text": "Sir Stephen Dalton Sir John McColl",
             "links": [
               {
@@ -357,7 +418,7 @@
               }
             ]
           },
-          "office4": {
+          "office5": {
             "text": "Deputy for Saint Clement",
             "links": [
               {
@@ -373,13 +434,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "5 December 2005"
           },
-          "term_end4": {
+          "term_end5": {
             "text": "14 November 2011"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Terry Le Sueur",
             "links": [
               {
@@ -388,7 +449,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "John Le Fondré",
             "links": [
               {
@@ -397,7 +458,7 @@
               }
             ]
           },
-          "monarch3": {
+          "monarch4": {
             "text": "Elizabeth II",
             "links": [
               {
