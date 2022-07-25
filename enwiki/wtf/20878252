@@ -200,6 +200,15 @@
               }
             ]
           },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
           "1blankname": {
             "text": "Chief Minister"
           },
@@ -208,6 +217,9 @@
           },
           "term_start": {
             "text": "13 March 2017"
+          },
+          "term_end": {
+            "text": "30 June 2022"
           },
           "predecessor": {
             "text": "Sir John McColl",
